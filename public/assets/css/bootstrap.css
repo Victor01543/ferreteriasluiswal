@@ -1113,9 +1113,9 @@ a:focus {
 figure {
   margin: 0;
 }
-img {
+/*img {
   vertical-align: middle;
-}
+}*/
 .img-responsive,
 .thumbnail > img,
 .thumbnail a > img,
@@ -1593,15 +1593,15 @@ pre code {
     width: 750px;
   }
 }
-@media (min-width: 992px) {
+/*@media (min-width: 992px) {
   .container {
     width: 100%;
-  }
+  }*/
 }
-@media (min-width: 1200px) {
+/*@media (min-width: 1200px) {
   .container {
     width: 1170px;
-  }
+  }*/
 }
 /*.container-fluid {
   padding-right: 15px;
@@ -6496,7 +6496,7 @@ button.close {
   display: table;
   content: " ";
 }
-.clearfix:after,
+/*.clearfix:after,*/
 .dl-horizontal dd:after,
 .container:after,
 .container-fluid:after,
